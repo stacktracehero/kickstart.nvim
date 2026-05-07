@@ -63,7 +63,6 @@ return { -- LSP Plugins
       clangd = {},
       pyright = {},
       rust_analyzer = {},
-      jdtls = {},
       stylua = {},
       lua_ls = {
         on_init = function(client)
